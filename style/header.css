@@ -1,0 +1,36 @@
+.heading{
+    background-color: white;
+}
+.logo{
+    margin-right: 250px;
+}
+.heading ol li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+  font-style: 14px;
+   color:#191E3B;
+   font-weight: 550;
+margin-top: 20px;
+   
+}
+.download-button{
+    width: 170px;
+    padding:5px;
+    background-color: white;
+     font-style: 14px;
+   color:#191E3B;
+   font-weight: 550;
+   border-style: solid;
+   border-radius: 15px;
+   border-color: #dfe0e4;
+}
+.download-icon{
+    width:15px; 
+}
+.heading ol li:hover{
+    color:#4d87d8;
+}
+.download-button:hover{
+    background-color:#b9d5f8;
+}
