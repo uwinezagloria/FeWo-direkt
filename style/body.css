@@ -1,36 +1,56 @@
 .container{
-    background-image:url("../images/background.avif");
-    height:500px;
-    width:100%;
+    background-image: url("../images/background.avif");
+    height:250px;
+    padding:150px;
 }
-.accomodation-par{
-    font-size: 36px;
-    color:white;
-
+.accomodation-para{
+  font-size: 36px;
+  color:white;
+  line-height: 10px;
 }
-.buttons{
-    background-color: rgb(247,247,248);
+.group{
+    background-color: #F7F7F8;
+    padding:20px;
     border-radius: 16px;
-    width:800px;
-    height:100px;
-    padding:0px 12px;
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr 80px;
 }
-.map-icon{
-    width:15px;
-    background-color: white;
-}
-.map-button{
-    font-size: 16px;
-    background-color: white;
-    margin:20px;
-    padding:14px;
-    padding-left: 3px;
-    padding-right: 16px;
-    color:#191e3b;
-    border-color: #818494;
-    border-radius: 10px;
-    border-width: 1.4px;
+.box{
+    display: flex;
+    flex-direction: row;
+    border-radius: 18px;
+    border-width: 1px;
     border-style: solid;
-    width: 300px;
+    cursor: pointer;
+    background-color: #ffffff;
     margin-right: 20px;
+    border-color: #393a41;
+    height:50px;
+    margin:20px;
+}
+.map-image,.calendar-image,.person-image{
+    width:20px;
+    height:15px;
+}
+.image{
+    margin:20px;
+}
+.image-description p{ 
+  margin:1px;
+  padding: 0;
+}
+.image-description{
+    padding:6px;
+}
+.seek-button{
+    margin:20px;
+    margin-left:0px;
+}
+.seek-button button{
+    padding:20px;
+    color: white;
+    background-color: #4d87d8;
+    border-radius: 40px;
+    border-style: none;
+    
 }
