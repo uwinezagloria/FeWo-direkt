@@ -3,3 +3,34 @@
     height:500px;
     width:100%;
 }
+.accomodation-par{
+    font-size: 36px;
+    color:white;
+
+}
+.buttons{
+    background-color: rgb(247,247,248);
+    border-radius: 16px;
+    width:800px;
+    height:100px;
+    padding:0px 12px;
+}
+.map-icon{
+    width:15px;
+    background-color: white;
+}
+.map-button{
+    font-size: 16px;
+    background-color: white;
+    margin:20px;
+    padding:14px;
+    padding-left: 3px;
+    padding-right: 16px;
+    color:#191e3b;
+    border-color: #818494;
+    border-radius: 10px;
+    border-width: 1.4px;
+    border-style: solid;
+    width: 300px;
+    margin-right: 20px;
+}
