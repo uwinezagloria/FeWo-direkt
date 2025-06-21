@@ -52,5 +52,9 @@
     background-color: #4d87d8;
     border-radius: 40px;
     border-style: none;
+    cursor: pointer;
     
+}
+.seek-button button :hover{
+    background-color: #1e5eb8;
 }

@@ -12,6 +12,7 @@
    color:#191E3B;
    font-weight: 550;
 margin-top: 20px;
+cursor: pointer;
    
 }
 .download-button{
@@ -32,5 +33,5 @@ margin-top: 20px;
     color:#4d87d8;
 }
 .download-button:hover{
-    background-color:#b9d5f8;
+    background-color:#044492;
 }
