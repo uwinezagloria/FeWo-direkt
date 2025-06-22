@@ -1,10 +1,34 @@
 .accomodation{
      margin-left: 90px;
-    margin-right: 90px;
+   
+    display: inline-block;
 }
 .find-par{
     margin-top: 30px;
 color:#191E3B;
 font-size: 28px;
 font-weight: bolder;
+}
+.holiday-photo img{
+    border-radius: 10px;
+    width:220px;
+    height:290px;
+}
+.holiday-photo{
+    position: relative;
+    margin-bottom: 12px;
+    margin-right: 18px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.photo-description{
+     position:absolute;
+    bottom:15px;
+    left:9px;
+    color:white;
+    font-size: 20px;
+    font-weight: bolder;
+   font-family: inherit;
+   
 }
