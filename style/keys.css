@@ -1,0 +1,61 @@
+.keys{
+    cursor: default;
+    margin-top: 20px;
+    margin-bottom: 20px;
+       
+}
+.key1 img,.key2 img{
+    width:30px
+}
+.key1 p{
+    color:#191E3B; 
+}
+.key1{
+    display: inline-block;
+    width:255px;
+    margin-right: 50px;
+    height: 30px;
+}
+
+.advertise{
+    background-image: url("../images/732141-0_2-VRBO_HOSTS_LA_SAUNA_NEBELING_0101.avif");
+    padding-left:50px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    border-radius: 30px;
+}
+.advetise{
+    width:350px;
+    background-color: white;
+    padding:40px;
+    border-radius: 22px;
+}
+.advetise button{
+    margin-top: 12px;
+    padding:14px;
+    border-radius: 24px;
+    border-style: none;
+    color: white;
+    background-color:  #4d87d8;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.advetise p{
+    color:#191E3B;
+    font-size: 18px;
+}
+.advetise h1{
+    font-size: 36px;
+     color:#191E3B
+}
+.advetise button:hover{
+    background-color:  #0c51b3;
+}
+.paragraphs{
+    width:95%;
+    margin-top: 30px;
+}
+.paragraphs h1,.paragraphs p{
+    color:#191E3B
+}

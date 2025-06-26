@@ -25,6 +25,7 @@ cursor: pointer;
    border-style: solid;
    border-radius: 15px;
    border-color: #dfe0e4;
+   cursor: pointer;
 }
 .download-icon{
     width:15px; 

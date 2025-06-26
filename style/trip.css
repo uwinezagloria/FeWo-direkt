@@ -1,0 +1,32 @@
+
+
+.trip-image,.trip-image1{
+  
+display: inline-block;
+cursor: pointer;
+}
+.trip-image1{
+    margin-right: 25px;
+   
+}
+.trip-image img,.trip-image1 img{
+border-radius: 12px;
+ width:580px;
+}
+.first-par{
+   color:#191E3B; 
+   font-size: 13px;
+}
+.trip-image1 a,.trip-image a{
+text-decoration: none;
+
+
+}
+.trip-image a p{
+margin-bottom: 0px;
+}
+.second-par{
+    font-size: 20px;
+    color:#191E3B;
+    font-weight: 500;
+}
