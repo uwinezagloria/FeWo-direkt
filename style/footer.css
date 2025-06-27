@@ -1,0 +1,46 @@
+.foot{
+    margin-top: 20px;
+    background-color: #dfe0e4;
+    margin:2px;
+    border-radius: 15px;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+}
+.explore{
+    display: inline-block;
+    margin-right: 70px;
+    vertical-align: top;
+}
+.footer-img{
+margin-left: 40px;
+    margin-bottom: 34px;
+    display:block;
+}
+.footer-img img{
+    width:127px;
+    height: 20px;
+    
+}
+.explore  li p{
+    color:black;
+    font-weight: bolder;
+    
+}
+.explore li{
+    list-style: none;
+    margin-bottom: 24px;
+}
+.explore li a{
+    text-decoration: none;
+    color:#1668E3;
+    font-size: 13px;
+    
+
+}
+.end{
+    color:#191E3B;
+    font-size: 13px;
+    margin-left: 170px;
+    margin-top: 10px;
+}
